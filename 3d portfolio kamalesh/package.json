@@ -1,0 +1,31 @@
+{
+  "name": "3d-ai-engineer-portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "18.2.0",
+    "three": "^0.179.1",
+    "framer-motion": "^12.23.12",
+    "@react-three/fiber": "8.16.8",
+    "maath": "0.10.7",
+    "react-tilt": "^1.0.2",
+    "react-scroll": "^1.9.3",
+    "@react-three/drei": "9.106.0",
+    "react-vertical-timeline-component": "^3.5.3",
+    "lodash.throttle": "4.1.1",
+    "prop-types": "15.8.1",
+    "@emotion/is-prop-valid": "1.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
